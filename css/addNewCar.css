@@ -1,0 +1,15 @@
+#success_message{ display: none;}
+.div-footer {
+  padding-top: 10px;
+}
+
+.footer-img {
+  margin-right: 10px;
+  margin-left: 3px;
+  margin-bottom: 3px;
+}
+
+#footer {
+  height: 150px;
+  text-align: center;
+}

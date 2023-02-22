@@ -1,0 +1,110 @@
+span {
+  color: #55C396;
+}
+
+.btn-outline-light {
+  font-family: 'Source Sans Pro ', sans-serif Black 900;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.heading {
+  color: white;
+  padding-top: 260px;
+}
+
+.heading h1 {
+  font-family: 'Secular One', sans-serif;
+  font-size: 52px;
+}
+
+.bgimg {
+  background-image: url('../images/img.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 690px;
+  width: 100%;
+}
+
+.trip-button {
+  color: #00A8FC;
+}
+
+.navbar {
+  margin-top: 0px;
+  font-family: 'Source Sans Pro ', sans-serif Black 900;
+}
+
+.vh-100 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  font-family: 'Secular One', sans-serif;
+  background-color: #E7E5E5;
+}
+
+.featured-vehicle {
+  font-family: 'Secular One', sans-serif;
+  background-color: #E7E5E5;
+}
+
+.subHeadings {
+  color: #55C396;
+  font-size: 52px;
+}
+
+.services-row {
+  padding: 20px 100px;
+}
+
+.services-col {
+  padding: 0px 40px;
+}
+
+.heading p {
+  font-size: 22px;
+}
+
+.navbar ul li {
+  padding: 0px 20px;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.editing-second {
+  text-align: center;
+  padding: 100px 150px;
+  background-color: #55C396;
+}
+
+.navbar-scroll {
+  background-color: black;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.div-footer {
+  padding-top: 10px;
+}
+
+.footer-img {
+  margin-right: 10px;
+  margin-left: 3px;
+  margin-bottom: 3px;
+}
+
+#footer {
+  height: 150px;
+  text-align: center;
+}
+
+#testimonials {
+  color: white;
+}

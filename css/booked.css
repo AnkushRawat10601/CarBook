@@ -1,0 +1,80 @@
+span {
+  color: #55C396;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.navbar {
+  margin-top: 0px;
+  margin-bottom: 100px;
+  font-family: 'Source Sans Pro ', sans-serif Black 900;
+}
+
+.navbar-scroll {
+  background-color: black;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.row {
+  padding-top: 50px;
+}
+
+.bgimg {
+  background-image: url('../images/auto.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px;
+  width: 100%;
+}
+
+.heading {
+  color: white;
+  padding-top: 230px;
+  padding-right: 1000px;
+}
+
+.pricing-details {
+  background-color: #E7E5E5;
+}
+
+.pricing-cards {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.div-footer {
+  padding-top: 10px;
+}
+
+.footer-img {
+  margin-right: 10px;
+  margin-left: 3px;
+  margin-bottom: 3px;
+}
+
+.card-text {
+  font-family: 'Source Sans Pro ', sans-serif Black 900;
+  font-size: 20px;
+}
+
+.price {
+  color: #55C396;
+}
+
+.navbar ul li {
+  padding: 0px 20px;
+}
+
+.heading h1 {
+  font-family: 'Source Sans Pro ', sans-serif Black 900;
+  font-size: 52px;
+}
+
+#footer {
+  height: 150px;
+  text-align: center;
+}

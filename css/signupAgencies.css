@@ -1,0 +1,43 @@
+span {
+  color: #55C396;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.navbar {
+  margin-top: 0px;
+  margin-bottom: 100px;
+  font-family: 'Source Sans Pro ', sans-serif Black 900;
+}
+
+.navbar-scroll {
+  background-color: black;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.row {
+  padding-top: 100px;
+}
+
+.div-footer {
+  padding-top: 10px;
+}
+
+.footer-img {
+  margin-right: 10px;
+  margin-left: 3px;
+  margin-bottom: 3px;
+}
+
+.navbar ul li {
+  padding: 0px 20px;
+}
+
+#footer {
+  height: 150px;
+  text-align: center;
+}
